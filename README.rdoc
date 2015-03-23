@@ -1,6 +1,8 @@
+= README
+
 == tinymce-rails-imageupload-demo
 
-Demo app for using [tinymce-rails-fileupload](https://github.com/dreyercalitz/tinymce-rails-fileupload) with Rails 4.
+Demo app for using tinymce-rails-fileupload[https://github.com/dreyercalitz/tinymce-rails-fileupload] with Rails 4.
 
 == Ruby
 
