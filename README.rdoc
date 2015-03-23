@@ -1,19 +1,18 @@
-== README
-
-tinymce-rails-imageupload-demo
-==============================
+== tinymce-rails-imageupload-demo
 
 Demo app for using [tinymce-rails-fileupload](https://github.com/dreyercalitz/tinymce-rails-fileupload) with Rails 4.
 
-Ruby
-====
+== Ruby
 
 Ruby 2.2.0 p0
 
-RubyGems
-========
+== RubyGems
 
 rails (4.2.1)
+
 paperclip (4.2.1)
+
 tinymce-rails (4.1.6)
+
 tinymce-rails-fileupload (0.0.2)
+
