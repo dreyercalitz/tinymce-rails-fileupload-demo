@@ -1,28 +1,19 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+tinymce-rails-imageupload-demo
+==============================
 
-Things you may want to cover:
+Demo app for using [tinymce-rails-fileupload](https://github.com/dreyercalitz/tinymce-rails-fileupload) with Rails 4.
 
-* Ruby version
+Ruby
+====
 
-* System dependencies
+Ruby 2.2.0 p0
 
-* Configuration
+RubyGems
+========
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+rails (4.2.1)
+paperclip (4.2.1)
+tinymce-rails (4.1.6)
+tinymce-rails-fileupload (0.0.2)
